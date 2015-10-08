@@ -4,7 +4,7 @@
 
 # AdAway
 
-AdAway is an open source ad blocker for Android using the hosts file. 
+AdAway is an open source ad blocker for Android using the hosts file.
 
 For more information visit http://adaway.org
 
@@ -13,7 +13,7 @@ For more information visit http://adaway.org
 ## Build Executables
 
 1. Have NDK directory in your PATH (http://developer.android.com/tools/sdk/ndk/index.html)
-2. Change to "AdAway" directory with ``cd AdAway``
+2. Change to "AdAway" jni directory: from the main AdAway dir ``cd AdAway/jni``
 3. Execute ``ndk-build`` to compile native binaries.
 
 ## Build APK
@@ -84,7 +84,7 @@ in order for them to compile in this project:
 * Commit: https://github.com/Free-Software-for-Android/AdAway/commit/08da0745b0732b94221c0f5746160fef8126fd99
 
 # Licenses
-AdAway is licensed under the GPLv3+.  
+AdAway is licensed under the GPLv3+.
 The file LICENSE includes the full license text.
 
 ## Details
@@ -102,49 +102,49 @@ You should have received a copy of the GNU General Public License
 along with AdAway.  If not, see <http://www.gnu.org/licenses/>.
 
 ## Libraries
-* ActionBarSherlock  
-  http://actionbarsherlock.com/  
+* ActionBarSherlock
+  http://actionbarsherlock.com/
   Apache License v2
 
-* Android Donations Lib  
-  https://github.com/dschuermann/android-donations-lib  
+* Android Donations Lib
+  https://github.com/dschuermann/android-donations-lib
   Apache License v2
 
-* RootCommands  
-  https://github.com/dschuermann/root-commands  
+* RootCommands
+  https://github.com/dschuermann/root-commands
   Apache License v2
 
-* Mongoose Webserver  
-  https://github.com/cesanta/mongoose  
+* Mongoose Webserver
+  https://github.com/cesanta/mongoose
   GPLv2 License
 
-* Tcpdump/Libpcap  
-  http://www.tcpdump.org/  
+* Tcpdump/Libpcap
+  http://www.tcpdump.org/
   BSD 3-Clause License
 
-* HtmlTextView  
-  https://github.com/dschuermann/html-textview  
+* HtmlTextView
+  https://github.com/dschuermann/html-textview
   Apache License v2
 
-* Trove  
-  http://trove.starlight-systems.com/  
+* Trove
+  http://trove.starlight-systems.com/
   [multiple licenses](http://trove.starlight-systems.com/license)
 
 
 ## Images
-* status_enabled.svg, status_disabled.svg, status_update.svg  
-  Dropbox Emblems Tango by Charles A.  
-  http://forums.dropbox.com/topic.php?id=7818&replies=19  
+* status_enabled.svg, status_disabled.svg, status_update.svg
+  Dropbox Emblems Tango by Charles A.
+  http://forums.dropbox.com/topic.php?id=7818&replies=19
   Creative Commons Attribution 3.0 Unported License
 
-* status_fail.svg  
-  Faenza Icons  
+* status_fail.svg
+  Faenza Icons
   GPLv3
 
-* icon.svg, banner.svg  
-  AdAway by Dominik Schürmann  
-  New version by Alin Ţoţea-Radu  
+* icon.svg, banner.svg
+  AdAway by Dominik Schürmann
+  New version by Alin Ţoţea-Radu
   GPLv3
 
-* Menu Icons  
+* Menu Icons
   Original Android Icons
