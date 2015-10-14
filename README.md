@@ -21,8 +21,9 @@ For more information visit http://adaway.org
 1. Have Android SDK "tools", "platform-tools", and "build-tools" directories in your PATH (http://developer.android.com/sdk/index.html)
 2. Open the Android SDK Manager (shell command: ``android``). Expand the Extras directory and install "Android Support Repository"
 3. Export ANDROID_HOME pointing to your Android SDK
-4. Execute ``./gradlew renameExecutables`` (IMPORTANT unusual step!)
-5. Execute ``./gradlew build``
+4. From "AdAway" main directory
+5. Execute ``./gradlew renameExecutables`` (IMPORTANT unusual step!)
+6. Execute ``./gradlew build``
 
 # Contribute
 
